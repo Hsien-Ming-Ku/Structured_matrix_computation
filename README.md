@@ -11,4 +11,8 @@ I plan to put some basic codes for implementing some structured matrix computati
 
 (5) Matrix with HSS structure;
 
-(6) .....
+(6) Multilevel Toeplitz matrices;
+
+(7) Matrix with displacement structure;
+
+(8) .................
